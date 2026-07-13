@@ -1,9 +1,9 @@
 {
-    "version": "0.76.1",
+    "version": "0.76.2",
     "description": "Dual-pane file manager in the Directory Opus tradition",
     "homepage": "https://signalassembly.com/products/actual-files",
-    "url": "https://signalassembly.com/dl/actual-files-v0.76.1-Actual.Files_0.76.1_x64-setup.exe#/dl.exe",
-    "hash": "bc53b66feca0a3a933cdca9c8fe164e5861e0909397a83e51cda0889cf236e0e",
+    "url": "https://signalassembly.com/dl/actual-files-v0.76.2-Actual.Files_0.76.2_x64-setup.exe#/dl.exe",
+    "hash": "b71767e7c862ea7666c63aabc47801b8055bdbfe0f3320f9c9ef23caa35f07d0",
     "installer": {
         "script": "Start-Process -Wait \"$dir\\dl.exe\" -ArgumentList '/S'"
     }
