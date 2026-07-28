@@ -1,9 +1,9 @@
 {
-    "version": "0.77.38",
+    "version": "0.77.46",
     "description": "Cross-platform file manager for power users",
     "homepage": "https://signalassembly.com/products/actual-files",
-    "url": "https://signalassembly.com/dl/actual-files-v0.77.38-Actual.Files_0.77.38_x64-setup.exe#/dl.exe",
-    "hash": "e711978da6b236147cb6281a0340274f1c2ff4bd46de21938dfb5c0d22903ddf",
+    "url": "https://signalassembly.com/dl/actual-files-v0.77.46-Actual.Files_0.77.46_x64-setup.exe#/dl.exe",
+    "hash": "a01b77aa9491ef4024410626f20895b4b924a54123bf420bb9305a67f757877a",
     "installer": {
         "script": "Start-Process -Wait \"$dir\\dl.exe\" -ArgumentList '/S'"
     }
